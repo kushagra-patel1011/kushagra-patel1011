@@ -1,23 +1,31 @@
 ## Hi, I'm Kushagra Patel 👋
 
-Final-year B.Tech CSE (Cybersecurity) student who uses **Python and backend concepts
-to build, analyze, and automate security-focused systems**.
+Final-year B.Tech CSE (Cybersecurity) student building **Python-powered security automation
+and detection systems**.
+
+---
 
 ### 🛠️ Core Skills
 - Python (automation, scripting, security tooling)
-- Backend fundamentals (REST APIs, auth, logging)
+- Backend fundamentals (REST APIs, authentication, logging)
 - Linux & networking basics
 - Cybersecurity fundamentals (phishing, IDS, threat analysis)
 
-### 🔐 What I work on
+---
+
+### 🔐 What I Work On
 - Python-powered security automation tools
 - Detection & analysis systems (phishing, intrusion)
 - Learning-focused simulations to understand real-world attacks & defenses
 
+---
+
 ### 🎯 Career Direction
-Actively preparing for **Cybersecurity / Security Engineering roles**, while working
-in Python & backend environments that strengthen my security foundation.
+Preparing for **Cybersecurity / Security Engineering roles**, while strengthening my foundation
+through Python and backend system development.
+
+---
 
 📌 Featured security-focused projects below  
-📫 LinkedIn: https://linkedin.com/in/kushagra-patel
+📫 LinkedIn: https://linkedin.com/in/kushagra-patel  
 🌐 Website: https://kushagra.gt.tc
