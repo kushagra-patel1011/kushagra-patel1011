@@ -1,64 +1,61 @@
-# Kushagra Patel
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Kushagra Patel — Blue team, detection engineering, security automation" />
+</p>
 
-Cybersecurity Analyst Trainee @ Cialfor Research Labs | ISC2 CC | SOC · Blue Team · Detection Engineering · Security Automation
+<p align="center">
+  <a href="https://www.linkedin.com/in/kushagra-patel/"><img src="./assets/btn-linkedin.svg" height="40" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:kushagrapatel11oct@gmail.com"><img src="./assets/btn-email.svg" height="40" alt="Email" /></a>
+  &nbsp;
+  <a href="https://github.com/kushagra-patel1011?tab=repositories"><img src="./assets/btn-github.svg" height="40" alt="Repositories" /></a>
+</p>
 
-B.Tech CSE (Cybersecurity), Quantum University — Class of 2026.
-Currently building InfoSec training programs, working on automotive cybersecurity (AIS 189/190), and sharpening detection engineering skills at Cialfor Research Labs, Pune.
+<p align="center">
+  I build security tools with a focus on threat detection, explainable analysis, and Python automation.
+</p>
 
----
+## Currently
 
-## Current Work
+<img src="./assets/now.svg" width="100%" alt="Current work: InfoSec training curriculum and automotive cybersecurity (AIS 189/190)" />
 
-- **InfoSec Training Curriculum (Cialfor)** — Designing and delivering structured training modules across authentication, cryptography, steganography, network security, digital forensics, email security, and information security governance. Each module is anchored to real-world breaches.
-- **Automotive Cybersecurity** — Researching India-specific vehicle cybersecurity standards (AIS 189/190) and ETAS/ARAI frameworks.
+## Selected work
 
----
+<a href="https://github.com/kushagra-patel1011/llm-purple-team-automation">
+  <img src="./assets/project-llm.svg" width="100%" alt="LLM Purple Team Framework — MITRE ATT&CK-mapped adversary simulation and automated detection logic generation" />
+</a>
 
-## Projects
+<a href="https://github.com/kushagra-patel1011/transparent-phishing-email-detection">
+  <img src="./assets/project-phishing.svg" width="100%" alt="Phishing Email Detection — explainable phishing indicator analysis in Python" />
+</a>
 
-| Project | Description |
+<a href="https://github.com/kushagra-patel1011/web-vulnerability-scanner">
+  <img src="./assets/project-vorascan.svg" width="100%" alt="VoraScan — Python CLI scanner for SQLi, XSS and port enumeration" />
+</a>
+
+<a href="https://github.com/kushagra-patel1011/CyberSecurity-Portfolio">
+  <img src="./assets/project-portfolio.svg" width="100%" alt="Cybersecurity Portfolio — lab reports, detection rules, security implementations" />
+</a>
+
+## Technical toolkit
+
+<img src="./assets/toolkit.svg" width="100%" alt="Splunk, ELK, MITRE ATT&CK, Sigma, YARA, STIX 2.1, TAXII, OpenCTI, Python, Bash, PowerShell, FastAPI" />
+
+<details>
+<summary><b>Additional tools & platforms</b></summary>
+<br />
+
+| Area | Tools |
 |---|---|
-| [LLM Purple Team Framework](https://github.com/kushagra-patel1011/llm-purple-team-automation) | MITRE ATT&CK-mapped adversary simulation + automated detection logic generation (submitted to Cureus/Springer Nature) |
-| [Phishing Email Detection](https://github.com/kushagra-patel1011/transparent-phishing-email-detection) | Explainable phishing indicator analysis using Python |
-| [VoraScan — Web Vulnerability Scanner](https://github.com/kushagra-patel1011/web-vulnerability-scanner) | Python CLI scanner for SQLi, XSS, port enumeration |
-| [CyberSecurity Portfolio](https://github.com/kushagra-patel1011/CyberSecurity-Portfolio) | Lab reports, detection rules, and security implementations |
+| Network & offensive | Wireshark · Nmap · Burp Suite · Metasploit · Nessus |
+| Digital forensics | Autopsy · Volatility · FTK Imager |
+| Operating systems | Kali Linux · Ubuntu · Windows |
 
----
+</details>
 
-## Technical Skills
+## Certifications & education
 
-**Security Operations:** SIEM (Splunk, ELK) · Alert Triage · Log Analysis · Threat Detection · Incident Response · MITRE ATT&CK · Sigma Rules · YARA  
-**Threat Intelligence:** STIX 2.1 · TAXII · OpenCTI · IOC Validation Pipelines  
-**Tools:** Wireshark · Nmap · Burp Suite · Metasploit · Nessus  
-**Digital Forensics:** Autopsy · Volatility · FTK Imager  
-**Languages:** Python · Bash · PowerShell  
-**Frameworks:** FastAPI  
-**OS:** Linux (Kali, Ubuntu) · Windows  
-
----
-
-## Certifications
-
-- **ISC2 Certified in Cybersecurity (CC)** — August 2026
-- **OPSWAT Email Security Associate**
-- **CompTIA Security+** — In Progress
-- **eJPT** — In Progress
-
----
+<img src="./assets/certs.svg" width="100%" alt="ISC2 CC (Aug 2026), OPSWAT Email Security Associate, Security+ and eJPT in progress, B.Tech CSE Cybersecurity, Quantum University 2026" />
 
 ## Experience
 
-| Role | Organization | Period |
-|---|---|---|
-| Cybersecurity Analyst Trainee | Cialfor Research Labs (Bluest Mettle Solutions), Pune | July 2026 – Present |
-| Threat Research Intern | Seqrite Labs (Quick Heal Technologies) | April – July 2026 |
-| Cyber Security & Ethical Hacking Intern | Cyberzero Club | Aug – Sep 2025 |
-| Cyber Security & Digital Forensics Intern | Cyber Secured India | Apr – Jun 2025 |
-| Cyber Security Student | SecureSphere Foundation | Sep – Dec 2024 |
-
----
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushagra-patel/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kushagrapatel11oct@gmail.com)
+<img src="./assets/experience.svg" width="100%" alt="Cialfor Research Labs, Seqrite Labs, Cyberzero Club, Cyber Secured India, SecureSphere Foundation" />
